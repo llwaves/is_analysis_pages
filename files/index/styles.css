@@ -82,9 +82,10 @@
 #u1_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:93px;
-  width:753px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u2 {
