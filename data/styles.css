@@ -66,6 +66,8 @@
 ._文本段落 {
   text-align:left;
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -88,4 +90,7 @@
 .table_cell {
 }
 .snapshot {
+}
+.sticky_1 {
+  text-align:left;
 }
